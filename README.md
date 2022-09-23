@@ -1,3 +1,2 @@
-# Simple GO Lang REST API
+# Simple GO Lang REST API with Gorilla Mux and PostgreSQL
 
-> Simple RESTful API with Gorilla Mux and PostgreSQL
